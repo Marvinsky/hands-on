@@ -64,6 +64,7 @@ HEADERS = \
           per_state_information.h \
           pref_evaluator.h \
           relaxation_heuristic.h \
+          hamming_distance_heuristic.h \
           rng.h \
           search_engine.h \
           search_node_info.h \
